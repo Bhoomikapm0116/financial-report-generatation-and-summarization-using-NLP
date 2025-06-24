@@ -1,20 +1,20 @@
-# 📊 Financial Report Generation and Summarization using NLP
+# Financial Report Generation and Summarization using NLP
 
 This project aims to automate the process of generating and summarizing financial reports using Natural Language Processing (NLP) techniques. It helps in extracting, analyzing, and presenting key financial insights from structured or semi-structured data, making it easier for stakeholders to understand large volumes of financial information quickly.
 
 ---
 
-## 🧠 Features
+## Features
 
-- 🔍 Extracts key financial metrics from input data (e.g., revenue, profit, expenses)
-- 📝 Generates human-readable financial reports using NLP
-- ✂️ Provides concise summaries of lengthy financial documents
-- 📁 Supports CSV, Excel, and textual financial input formats
-- 🧪 Basic sentiment analysis on financial statements
+- Extracts key financial metrics from input data (e.g., revenue, profit, expenses)
+- Generates human-readable financial reports using NLP
+- Provides concise summaries of lengthy financial documents
+- Supports CSV, Excel, and textual financial input formats
+- Basic sentiment analysis on financial statements
 
 ---
 
-## 💡 Technologies Used
+## Technologies Used
 
 - **Python**
 - **Natural Language Toolkit (NLTK)**
@@ -26,7 +26,7 @@ This project aims to automate the process of generating and summarizing financia
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 
 ```
 financial-report-generatation-and-summarization-using-NLP/
@@ -44,7 +44,7 @@ financial-report-generatation-and-summarization-using-NLP/
 
 ---
 
-## 🚀 How to Run
+## How to Run
 
 1. **Clone the repository**
 
@@ -73,7 +73,7 @@ streamlit run app.py
 
 ---
 
-## 📝 Example Output
+## Example Output
 
 **Input:**
 ```text
@@ -85,17 +85,11 @@ ABC Corp had a revenue of ₹5 crore and a net profit of ₹1.2 crore for FY 202
 
 ---
 
-## 📌 Future Enhancements
+## Future Enhancements
 
 - Integration with real-time financial APIs
 - Multi-language summarization support
 - Improved report formatting (charts, tables)
 - Advanced deep learning-based summarizers (e.g., BERT, T5)
-
----
-
-## 🤝 Contributors
-
-- **Bhoomika P.M.** – [GitHub](https://github.com/Bhoomikapm0116)
 
 ---
